@@ -3,8 +3,10 @@
     
 <h1 align="center"> </h1>
 <div align="center">
-  <img height="600" src="https://github.com/KarinaYumi/KarinaYumi/blob/main/image/VideoKarina.gif" alt="header"/>
+  <img height="600" width="2000" src="https://github.com/KarinaYumi/KarinaYumi/blob/main/image/VideoKarina.gif" alt="header"/>
 </div>
+<br>
+<br>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarinaYumi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaYumi&layout=compact&langs_count=7&theme=dracula"/>
