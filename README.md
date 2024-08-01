@@ -3,7 +3,7 @@
     
 <h1 align="center"> </h1>
 <div align="center">
-  <img height="600" width="2000" src="https://github.com/KarinaYumi/KarinaYumi/blob/main/image/VideoKarina.gif" alt="header"/>
+  <img src="https://github.com/KarinaYumi/KarinaYumi/blob/main/image/VideoKarina.gif" alt="header"/>
 </div>
 <br>
 <br>
